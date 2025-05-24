@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with a keen interest in open-source projects 
 ## 📫 How to reach me
 - **Email:** coolpythoncodes@gmail.com
 - **LinkedIn:** [devrapture](https://linkedin.com/in/rapture-godson)
-- **Twitter:** [@devrapture](https://twitter.com/devrapture)
+- **Twitter:** [@devrappy](https://twitter.com/devrappy)
 
 ## 🚀 Projects
 - **[Rappy](https://github.com/devrapture/rappy):** A lightning-fast CLI tool for scaffolding Web3 projects with Next.js frontend and your choice of Foundry or Hardhat for smart contract development.
